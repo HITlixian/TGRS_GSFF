@@ -16,11 +16,18 @@ tar -xzf mangrove_classifier_with_data_linux_py39.tar.gz
 cd mangrove_classifier_with_data_linux_py39
 
 
-2. Activate the environment on the local machine:
+
+2.1 Activate the environment on the local machine:
 
 source /home/hit/anaconda3/etc/profile.d/conda.sh
 conda activate py39-torch
 python -m pip install -r requirements-runtime.txt
+
+2.2 Data sets
+Data set files are too large to commit to a repository. Access to data sets can be done using this URL;
+https://pan.baidu.com/s/1v5biQbnEg930rnTHbxTDcQ, w4st
+
+Each data set has its licensing; you should include them in your paper/work.
 
 
 On a new machine, first read the environment instructions in environment_zh.md.
