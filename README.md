@@ -51,7 +51,7 @@ Prediction-only results are saved to the predict_only subdirectory under the cor
 Local encryption only prevents direct access to standalone model files and does not guarantee protection against reverse engineering or memory extraction. Do not distribute alongside older unencrypted packages.
 
 Citation
-If you use this in your research, please cite the paper:
+If you use this in your research, please cite the papers:
 
 @article{li2026enhanced,
   title={An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification},
